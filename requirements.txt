@@ -1,0 +1,8 @@
+numpy==1.5.0
+tables
+scipy
+matplotlib
+seaborn
+pandas
+numexpr
+cufflinks
